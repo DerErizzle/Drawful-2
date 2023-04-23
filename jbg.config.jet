@@ -12,7 +12,7 @@
 	"serverUrl":"ecast.jackboxgames.com",
 	"videoplayer":"true",
 	"audio-extension":".ogg",
-	"joinUrl":"jackbox.gg",
+	"joinUrl":"jackbox.de",
 	"allowIntroSkip":"true",
 	"canPauseOnPressStart":"true",
 	"defaultLocale":"de",
